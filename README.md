@@ -1,4 +1,4 @@
-windows-pygtk
+# windows-pygtk
 
 Based on the work of Matteo Franchin
 fnch@users.sourceforge.net
